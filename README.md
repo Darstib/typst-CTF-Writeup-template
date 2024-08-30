@@ -4,7 +4,7 @@
 
 ## 介绍
 
-这是一个为了书写 ctf-writeup 的 typst 模板，由 [memset0/ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template) 修改而来
+这是一个为了书写 ctf-writeup 的 typst 模板（当然你也可以用来干其他你想干的），由 [memset0/ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template) 修改而来
 
 关于 typst, 你可以从 [这里](https://darstib.github.io/blog/2024/05/18/typst-begin/) 开始或者直接阅读 [官方文档](https://typst.app/docs)。
   

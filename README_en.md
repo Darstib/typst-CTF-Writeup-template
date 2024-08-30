@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a Typst template designed for writing CTF write-ups, modified from [memset0/ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template).
+This is a Typst template designed for writing CTF write-ups(Of course you can use it for whatever else you want), modified from [memset0/ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template).
 
 For more about Typst, you can start from [here](https://darstib.github.io/blog/2024/05/18/typst-begin/) or directly read the [official documentation](https://typst.app/docs).
 
@@ -26,7 +26,7 @@ Or you can directly switch to the ctf branch in GitHub and download the files (w
 
 ### Usage Demonstration
 
-> The following content is the same as the usage in . If you are unfamiliar with Typst, don't worry, you can modify the examples directly.
+> The following content is the same as the usage in [typst_begin](https://darstib.github.io/blog/2024/05/18/typst-begin/). If you are unfamiliar with Typst, don't worry, you can modify the examples directly.
 
 While keeping the original project feasible, I have modified `template.typ` and provided example materials in the writeup folder. The differences and features between this template and the original template are introduced in [demo.pdf](writeup/demo.pdf), which I will briefly mention again below:
 
