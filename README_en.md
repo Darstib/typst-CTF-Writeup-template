@@ -28,7 +28,7 @@ Or you can directly switch to the ctf branch in GitHub and download the files (w
 
 > The following content is the same as the usage in . If you are unfamiliar with Typst, don't worry, you can modify the examples directly.
 
-While keeping the original project feasible, I have modified `template.typ` and provided example materials in the writeup folder. The differences and features between this template and the original template are introduced in demo.pdf, which I will briefly mention again below:
+While keeping the original project feasible, I have modified `template.typ` and provided example materials in the writeup folder. The differences and features between this template and the original template are introduced in [demo.pdf](writeup/demo.pdf), which I will briefly mention again below:
 
 - Modified the cover and link presentation;
 - Modified the codex block and added some blockx;
