@@ -24,7 +24,7 @@
 
 去除了封面的 zju_logo ，如果需要，自己加上即可；
 
-修改了封面信息，预览如下：
+修改了封面信息，预览如下，对于不希望展示的部分，留空或者为 none 即可：
 
 #figure(
   image("attachments/demo3.png", width: 30%),
